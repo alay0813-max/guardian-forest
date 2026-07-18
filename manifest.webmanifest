@@ -1,0 +1,25 @@
+{
+  "name": "安心守護森林",
+  "short_name": "守護森林",
+  "description": "兒少安全宣導互動守護森林",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#eaf2e6",
+  "theme_color": "#295d37",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
