@@ -1,4 +1,4 @@
-const CACHE_NAME = "guardian-forest-v2-stable-fix-20260719-1";
+const CACHE_NAME = "guardian-forest-v2-1-multi-forest-stable-20260719";
 const APP_SHELL = [
   "./",
   "./index.html",
