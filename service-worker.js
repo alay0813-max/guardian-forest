@@ -1,4 +1,4 @@
-const CACHE_NAME = "guardian-forest-v2-responsive-test";
+const CACHE_NAME = "guardian-forest-v2-responsive-final";
 const APP_SHELL = [
   "./",
   "./index.html",
