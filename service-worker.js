@@ -1,4 +1,4 @@
-const CACHE_NAME = "guardian-forest-pwa-v1";
+const CACHE_NAME = "guardian-forest-pwa-v1-0-1-ipad";
 const APP_SHELL = [
   "./",
   "./index.html",
